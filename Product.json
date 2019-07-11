@@ -1,6 +1,6 @@
 [{
 	"NAME": "Dri-Fit",
-	"GRAPHICNAME": "n1.png",
+	"GRAPHICNAME": "n1",
 	"COSTPRICE": 42.00,
 	"MSRP": 55.00,
 	"QTYONHAND": 20,
@@ -9,7 +9,7 @@
 	"BRAND": "Nike"
 }, {
 	"NAME": "Sportswear Club",
-	"GRAPHICNAME": "n2.png",
+	"GRAPHICNAME": "n2",
 	"COSTPRICE": 30.00,
 	"MSRP": 40.00,
 	"QTYONHAND": 15,
@@ -18,7 +18,7 @@
 	"BRAND": "Nike"
 }, {
 	"NAME": "Stripped Sportswear",
-	"GRAPHICNAME": "n3.png",
+	"GRAPHICNAME": "n3",
 	"COSTPRICE": 64.00,
 	"MSRP": 75.00,
 	"QTYONHAND": 10,
@@ -27,7 +27,7 @@
 	"BRAND": "Nike"
 }, {
 	"NAME": "Just Do It",
-	"GRAPHICNAME": "n4.png",
+	"GRAPHICNAME": "n4",
 	"COSTPRICE": 42.00,
 	"MSRP": 55.00,
 	"QTYONHAND": 15,
@@ -36,7 +36,7 @@
 	"BRAND": "Nike"
 }, {
 	"NAME": "Squad Drill",
-	"GRAPHICNAME": "n5.png",
+	"GRAPHICNAME": "n5",
 	"COSTPRICE": 100.00,
 	"MSRP": 110.00,
 	"QTYONHAND": 12,
@@ -45,7 +45,7 @@
 	"BRAND": "Nike"
 }, {
 	"NAME": "BEACH T-SHIRT",
-	"GRAPHICNAME": "th1.png",
+	"GRAPHICNAME": "th1",
 	"COSTPRICE": 40.00,
 	"MSRP": 50.00,
 	"QTYONHAND": 25,
@@ -54,7 +54,7 @@
 	"BRAND": "Tommy Hilfiger"
 }, {
 	"NAME": "PIMA T-SHIRT",
-	"GRAPHICNAME": "th2.png",
+	"GRAPHICNAME": "th2",
 	"COSTPRICE": 50.00,
 	"MSRP": 55.00,
 	"QTYONHAND": 15,
@@ -63,7 +63,7 @@
 	"BRAND": "Tommy Hilfiger"
 }, {
 	"NAME": "HERITAGE T-SHIRT",
-	"GRAPHICNAME": "th3.png",
+	"GRAPHICNAME": "th3",
 	"COSTPRICE": 100.00,
 	"MSRP": 110.00,
 	"QTYONHAND": 10,
@@ -72,7 +72,7 @@
 	"BRAND": "Tommy Hilfiger"
 }, {
 	"NAME": "PHOTO PRINT",
-	"GRAPHICNAME": "th4.png",
+	"GRAPHICNAME": "th4",
 	"COSTPRICE": 45.00,
 	"MSRP": 50.00,
 	"QTYONHAND": 10,
@@ -81,7 +81,7 @@
 	"BRAND": "Tommy Hilfiger"
 }, {
 	"NAME": "STRIPE T-SHIRT",
-	"GRAPHICNAME": "th5.png",
+	"GRAPHICNAME": "th5",
 	"COSTPRICE": 45.00,
 	"MSRP": 52.00,
 	"QTYONHAND": 20,
@@ -90,7 +90,7 @@
 	"BRAND": "Tommy Hilfiger"
 }, {
 	"NAME": "SPORT TEE",
-	"GRAPHICNAME": "a1.png",
+	"GRAPHICNAME": "a1",
 	"COSTPRICE": 45.00,
 	"MSRP": 50.00,
 	"QTYONHAND": 15,
@@ -99,7 +99,7 @@
 	"BRAND": "Adidas"
 }, {
 	"NAME": "ATHLETICS TEE",
-	"GRAPHICNAME": "a2.png",
+	"GRAPHICNAME": "a2",
 	"COSTPRICE": 50.00,
 	"MSRP": 58.00,
 	"QTYONHAND": 15,
@@ -108,7 +108,7 @@
 	"BRAND": "Adidas"
 }, {
 	"NAME": "FREELIFT TEE",
-	"GRAPHICNAME": "a3.png",
+	"GRAPHICNAME": "a3",
 	"COSTPRICE": 45.00,
 	"MSRP": 50.00,
 	"QTYONHAND": 10,
@@ -117,7 +117,7 @@
 	"BRAND": "Adidas"
 }, {
 	"NAME": "TREFOIL TEE",
-	"GRAPHICNAME": "a4.png",
+	"GRAPHICNAME": "a4",
 	"COSTPRICE": 52.00,
 	"MSRP": 60.00,
 	"QTYONHAND": 20,
@@ -126,7 +126,7 @@
 	"BRAND": "Adidas"
 }, {
 	"NAME": "CLUB POLO",
-	"GRAPHICNAME": "a5.png",
+	"GRAPHICNAME": "a5",
 	"COSTPRICE": 52.00,
 	"MSRP": 60.00,
 	"QTYONHAND": 15,
