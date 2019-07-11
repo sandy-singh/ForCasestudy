@@ -1,5 +1,6 @@
 [{
 	"NAME": "Dri-Fit",
+	"ID": "n1",
 	"GRAPHICNAME": "n1.png",
 	"COSTPRICE": 42.00,
 	"MSRP": 55.00,
@@ -9,6 +10,7 @@
 	"BRAND": "Nike"
 }, {
 	"NAME": "Sportswear Club",
+	"ID": "n2",
 	"GRAPHICNAME": "n2.png",
 	"COSTPRICE": 30.00,
 	"MSRP": 40.00,
@@ -18,6 +20,7 @@
 	"BRAND": "Nike"
 }, {
 	"NAME": "Stripped Sportswear",
+	"ID": "n3",
 	"GRAPHICNAME": "n3.png",
 	"COSTPRICE": 64.00,
 	"MSRP": 75.00,
@@ -27,6 +30,7 @@
 	"BRAND": "Nike"
 }, {
 	"NAME": "Just Do It",
+	"ID": "n4",
 	"GRAPHICNAME": "n4.png",
 	"COSTPRICE": 42.00,
 	"MSRP": 55.00,
@@ -36,6 +40,7 @@
 	"BRAND": "Nike"
 }, {
 	"NAME": "Squad Drill",
+	"ID": "n5",
 	"GRAPHICNAME": "n5.png",
 	"COSTPRICE": 100.00,
 	"MSRP": 110.00,
@@ -45,6 +50,7 @@
 	"BRAND": "Nike"
 }, {
 	"NAME": "BEACH T-SHIRT",
+	"ID": "th1",
 	"GRAPHICNAME": "th1.png",
 	"COSTPRICE": 40.00,
 	"MSRP": 50.00,
@@ -54,6 +60,7 @@
 	"BRAND": "Tommy Hilfiger"
 }, {
 	"NAME": "PIMA T-SHIRT",
+	"ID": "th2",
 	"GRAPHICNAME": "th2.png",
 	"COSTPRICE": 50.00,
 	"MSRP": 55.00,
@@ -63,6 +70,7 @@
 	"BRAND": "Tommy Hilfiger"
 }, {
 	"NAME": "HERITAGE T-SHIRT",
+	"ID": "th3",
 	"GRAPHICNAME": "th3.png",
 	"COSTPRICE": 100.00,
 	"MSRP": 110.00,
@@ -72,6 +80,7 @@
 	"BRAND": "Tommy Hilfiger"
 }, {
 	"NAME": "PHOTO PRINT",
+	"ID": "th4",
 	"GRAPHICNAME": "th4.png",
 	"COSTPRICE": 45.00,
 	"MSRP": 50.00,
@@ -81,6 +90,7 @@
 	"BRAND": "Tommy Hilfiger"
 }, {
 	"NAME": "STRIPE T-SHIRT",
+	"ID": "th5",
 	"GRAPHICNAME": "th5.png",
 	"COSTPRICE": 45.00,
 	"MSRP": 52.00,
@@ -90,6 +100,7 @@
 	"BRAND": "Tommy Hilfiger"
 }, {
 	"NAME": "SPORT TEE",
+	"ID": "a1",
 	"GRAPHICNAME": "a1.png",
 	"COSTPRICE": 45.00,
 	"MSRP": 50.00,
@@ -99,6 +110,7 @@
 	"BRAND": "Adidas"
 }, {
 	"NAME": "ATHLETICS TEE",
+	"ID": "a2",
 	"GRAPHICNAME": "a2.png",
 	"COSTPRICE": 50.00,
 	"MSRP": 58.00,
@@ -108,6 +120,7 @@
 	"BRAND": "Adidas"
 }, {
 	"NAME": "FREELIFT TEE",
+	"ID": "a3",
 	"GRAPHICNAME": "a3.png",
 	"COSTPRICE": 45.00,
 	"MSRP": 50.00,
@@ -117,6 +130,7 @@
 	"BRAND": "Adidas"
 }, {
 	"NAME": "TREFOIL TEE",
+	"ID": "a4",
 	"GRAPHICNAME": "a4.png",
 	"COSTPRICE": 52.00,
 	"MSRP": 60.00,
@@ -126,6 +140,7 @@
 	"BRAND": "Adidas"
 }, {
 	"NAME": "CLUB POLO",
+	"ID": "a5",
 	"GRAPHICNAME": "a5.png",
 	"COSTPRICE": 52.00,
 	"MSRP": 60.00,
