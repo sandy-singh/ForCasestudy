@@ -4,8 +4,8 @@
 	"GRAPHICNAME": "n1.png",
 	"COSTPRICE": 42.00,
 	"MSRP": 55.00,
-	"QTYONHAND": 20,
-	"QTYONBACKORDER": 10,
+	"QTYONHAND": 0,
+	"QTYONBACKORDER": 4,
 	"DESCRIPTION": "The Nike Dri-FIT Men's Training T-Shirt delivers a soft feel, sweat-wicking performance and great range of motion to get you through your workout in total comfort.",
 	"BRAND": "Nike"
 }, {
