@@ -11,14 +11,14 @@
 			"Shoes": "450"
 		},
 		"Tommy Hilfiger": {
-			"T-shirt": "70,
-			"Jeans": "150,
-			"Shoes": "244
+			"T-shirt": "70",
+			"Jeans": "150",
+			"Shoes": "244"
 		},
-		"Aeropostle":{
-			"T-shirt": "50"
-			"Jeans": "80,
-			"Shoes": "100
+		"Aeropostle": {
+			"T-shirt": "50",
+			"Jeans": "80",
+			"Shoes": "100"
 		}
 	}
 }
