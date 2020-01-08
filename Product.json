@@ -1,14 +1,14 @@
 {
 	"Products": {
 		"Nike": {
-			"T-shirt": 225,
-			"Jeans": 525,
-			"Shoes": 400
+			"T-shirt": "225",
+			"Jeans": "525",
+			"Shoes": "400"
 		},
 		"Adidas": {
-			"T-shirt": 190,
-			"Jeans": 450,
-			"Shoes": 450
+			"T-shirt": "190",
+			"Jeans": "450",
+			"Shoes": "450"
 		}
 	}
 }
